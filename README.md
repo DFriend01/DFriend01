@@ -9,13 +9,13 @@
 <!-- markdownlint-disable -->
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/devon-friend101/" target="_blank">
+    <a href="https://www.linkedin.com/in/devon-friend101/" target="_blank" style="text-decoration:none">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.devpost.com/devon-friend45" target="_blank">
+    <a href="https://www.devpost.com/devon-friend45" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Devpost-Profile-blue?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Profile">
     </a>
-    <a href="mailto:devon.friend45@gmail.com">
+    <a href="mailto:devon.friend45@gmail.com" style="text-decoration:none">
       <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
     </a>
 </div>
