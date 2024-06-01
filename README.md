@@ -24,6 +24,18 @@
 
 ### :rocket: About Me
 
+- :computer: Software Developer
+- :books: BASc in Computer Engineering from the University of British Columbia
+- :necktie: Professional experience in Software Development, Data Science, and R&D
+- :seedling: Always striving to learn more
+
+### :sparkling_heart: Interests
+
+- Artificial Intelligence and Machine Learning
+- Data Science
+- DevOps
+- Infrastructure
+- Automation
 
 ### :video_game: When I'm AFK
 
