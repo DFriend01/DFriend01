@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Greeting generated from https://readme-typing-svg.demolab.com/demo/ -->
 
-<!--
-**DFriend01/DFriend01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Welcome to my profile](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=10B34A&random=false&width=480&lines=Fancy+meeting+you+here...;I'm+Devon%2C+good+to+see+you!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## :rocket: About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges for contact  -->
+
+<!-- markdownlint-disable -->
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/devon-friend101/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:devon.friend45@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
+    </a>
+</div>
+
+<!-- markdownlint-disable -->
+
+
+
+## :octocat: GitHub Statistics
+
+<!-- GitHub Statistics -->
+
+<!-- markdownlint-disable -->
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DFriend01&theme=github_dark" alt="Activity Stats"/>
+</div>
+
+<div align="center">
+  <span>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DFriend01&theme=github_dark" alt="GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DFriend01&theme=github_dark" alt="Top Languages"/>
+  </span>
+</div>
+
+<!-- markdownlint-restore -->
