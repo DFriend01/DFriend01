@@ -32,7 +32,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DFriend01&theme=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DFriend01&theme=github">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DFriend01&theme=github_dark" alt="Activity Stats"/>
   </picture>
 </div>
@@ -40,11 +40,11 @@
 <div align="center">
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DFriend01&theme=github">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DFriend01&theme=github">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DFriend01&theme=github_dark" alt="GitHub Stats"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DFriend01&theme=github">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DFriend01&theme=github">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DFriend01&theme=github_dark" alt="Top Languages"/>
     </picture>
   </span>
